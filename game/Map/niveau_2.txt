@@ -1,0 +1,17 @@
+VVVVVVVVVVVVVVVVV######VVVVVVVVV
+VVVVVVVVVVVVVVVVV#    #VVVVVVVVV
+###################  ########VVV
+#              #     TT     #VVV
+#              I     TT     #VVV
+#    #############   TT     ####
+#          TT        TT        #
+#          TT        TT        #
+#######   #TTTTTTTTTTTT     ####
+VVVVVV#    TTTTTTTTTTTT     #VVV
+VVVVVV#               #     #VVV
+VVVVVV#               #     #VVV
+VVVVVV#        O      #     #VVV
+VVVVVV#################     ####
+VVVVVVVVVVVVVVVVVVVVVV#        #
+VVVVVVVVVVVVVVVVVVVVVV#        #
+VVVVVVVVVVVVVVVVVVVVVV##########
